@@ -1,0 +1,33 @@
+.image{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+      
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+    
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#course{
+    margin-right: 0.5%;
+}
+.courses{
+    text-align: center;
+}
+
+.dropdown{
+    
+        display: flex;
+        justify-content: space-between;
+      
+}
+
